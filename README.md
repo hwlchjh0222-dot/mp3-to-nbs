@@ -1,2 +1,2 @@
 # mp3-to-nbs
-https://zzzzmusic.co,
+https://zzzzmusic.com
